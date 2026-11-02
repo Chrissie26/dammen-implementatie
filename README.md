@@ -1,3 +1,2 @@
 ## Dammen ClI game
-CLI damspel implementatie
-Run dammen.php, alle instructies voor de game worden in de cli aangegeven
+Speel dammen in je cli. Run dammen.php en speel een spel dammen. <br />Alle regels zijn geïmplementeerd, alleen het slaan met een dam is nog beperkt tot het achteruit slaan als een normale steen,
